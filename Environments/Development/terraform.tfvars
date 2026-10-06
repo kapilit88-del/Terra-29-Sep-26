@@ -38,7 +38,7 @@ resource_groups = {
 # ============================================================
 storage_accounts = {
   sa1 = {
-    sa_name                  = "stgaxionsdev01"
+    sa_name                  = "stgaxionsdev90"
     sa_resource_group        = "rg-axion-smartops-dev01"
     sa_location              = "East US"
     account_tier             = "Standard"
